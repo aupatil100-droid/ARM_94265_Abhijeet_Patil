@@ -1,0 +1,4 @@
+../Src/toggel.c:14:6:switch_init	1
+../Src/toggel.c:25:5:button	2
+../Src/toggel.c:33:6:led_init	1
+../Src/toggel.c:49:6:led_on	1
