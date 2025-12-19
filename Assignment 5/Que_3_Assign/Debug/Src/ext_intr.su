@@ -1,0 +1,2 @@
+../Src/ext_intr.c:12:6:extint_init	0	static
+../Src/ext_intr.c:44:6:EXTI0_IRQHandler	0	static
